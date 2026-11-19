@@ -10,7 +10,7 @@ model = joblib.load(model_path)
 # ------------------------------
 # Streamlit UI
 # ------------------------------
-st.title("Wellness Tourism Prediction App")
+st.title("Hello my Friemds ")
 
 st.write("""
 This application predicts potential buyers of Wellness Tourism Package based on customer data.
